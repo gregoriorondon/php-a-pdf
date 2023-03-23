@@ -1,4 +1,15 @@
 <?php
+//========================================
+//ANTES PE PODER USAR ESTE PROYECTO TIENES
+//  QUE DESCARGAR E INSTALAR COMPOSER
+//     https://getcomposer.org/
+// Y DESCARGAR DESDE LA TERMINAL DOMPDF
+//  PARA QUE FUNCIONE CORRECTAMENTE
+// EL SIGUIENTE COMANDO PARA DESCARGARLO
+//  composer require dompdf/dompdf
+//     O VE A SU SITIO OFICIAL
+// https://github.com/dompdf/dompdf
+//========================================
 // include autoloader
 require __DIR__ . "/vendor/autoload.php";//llamando a dompdf de la carpeta para su función
 // reference the Dompdf namespace
